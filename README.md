@@ -31,3 +31,4 @@
 <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat&logo=databasedotcom&logoColor=white">
 <img src="https://img.shields.io/badge/-RAG-8A2BE2?style=flat&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white">

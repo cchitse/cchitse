@@ -1,6 +1,9 @@
 ### Hi there! I am Chitse
 🎓 Information Studies @ UT Austin (Class of 2027)<br/>
-🌱 Specialize in data analytics and data engineering<br/>
+😎 Current AI Research Assistant @ School of Information (UT Austin)
+🌱 Computer-Integrated Manufacturing(CIM) Intern @ Ardentec (Summer 2023)
+⚡ 1 year of experience in engineering data pipelines and AI-driven analytics for manufacturing and healthcare. 
+🤖 Specialist in Data Engineering and RAG models.
 
 ### Languages & Tools
 <img src="https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-SQL-e69138?style=flat&logo=sql&logoColor=white">

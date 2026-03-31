@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white">
 <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">

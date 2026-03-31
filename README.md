@@ -29,4 +29,5 @@
 <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat&logo=databasedotcom&logoColor=white">
 <img src="https://img.shields.io/badge/-RAG-8A2BE2?style=flat&logo=openai&logoColor=white">

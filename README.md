@@ -1,13 +1,12 @@
-### Hi there! I am Chitse
-🎓 Information Studies @ UT Austin (Class of 2027)<br/>
-😎 Current AI Research Assistant @ School of Information (UT Austin)<br/>
-🌱 Computer-Integrated Manufacturing(CIM) Intern @ Ardentec (Summer 2023)<br/>
-⚡ 1 year of experience in engineering data pipelines and AI-driven analytics for manufacturing and healthcare<br/>
-🤖 Specialist in Data Engineering and RAG models<br/>
+### Hi there! I am Jason
+Information Studies @ UT Austin (Class of 2027)<br/>
+* Data Engineer/Gen AI Engineer
+* Over a year of experience building data pipelines and Generative AI solutions across healthcare, technology, and finance.<br/>
+* Specialist in ETL, Agentic Systems Design, AI Orchestration<br/>
 
 ### Leadership and Achievements
-🙋‍♀️ Mentor @ Project TYRA(US Fulbright)<br/>
-🏅 Honorable Mention @ InnoConnect+ (THU)<br/>
+* Mentor @ Project TYRA(US Fulbright)<br/>
+* Honorable Mention @ InnoConnect+ (THU)<br/>
 
 ### Languages & Tools
 
